@@ -1,4 +1,5 @@
-// define necessary libraries
+// Written by Muhammet Balcilar, France
+// All rights reserved
 
 #include <string.h>
 #include <stdlib.h>
