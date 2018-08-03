@@ -21,20 +21,20 @@ $ ./test
 ## Results
 
 
-Number of inputs : 20
-Total numbers of perceptrons: 6
-Note, due to the input per perceptron should be integer, adjusted number of input is : 24
-Positive boundaries of the weights: 4
-Number of attackers: 4
+Number of inputs : 20 </br>
+Total numbers of perceptrons: 6 </br>
+Note, due to the input per perceptron should be integer, adjusted number of input is : 24 </br>
+Positive boundaries of the weights: 4 </br>
+Number of attackers: 4 </br>
 
-Initial state of networks
-First Network
-[4, -3, -2, 4]
-[-1, -3, 3, -1]
-[2, -2, -2, 3]
-[-4, -1, -4, -1]
-[-2, 2, -1, 3]
-[-3, 4, 2, 3]
+Initial state of networks </br>
+First Network </br>
+[4, -3, -2, 4] </br>
+[-1, -3, 3, -1] </br>
+[2, -2, -2, 3] </br>
+[-4, -1, -4, -1] </br>
+[-2, 2, -1, 3] </br>
+[-3, 4, 2, 3] </br>
 
 Second Network
 [-4, 1, -4, 1]
