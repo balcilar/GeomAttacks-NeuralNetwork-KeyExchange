@@ -36,91 +36,91 @@ First Network </br>
 [-2, 2, -1, 3] </br>
 [-3, 4, 2, 3] </br>
 
-Second Network
-[-4, 1, -4, 1]
-[-3, 2, -3, 0]
-[4, -3, 3, -3]
-[4, -2, 1, -3]
-[-2, -3, -1, -2]
-[-4, 4, 3, 0]
 
-Output 1: -1
-Output 2: 1
+Second Network </br>
+[-4, 1, -4, 1] </br>
+[-3, 2, -3, 0]</br>
+[4, -3, 3, -3]</br>
+[4, -2, 1, -3]</br>
+[-2, -3, -1, -2]</br>
+[-4, 4, 3, 0]</br>
+</br>
+Output 1: -1</br>
+Output 2: 1</br>
+</br>
+Final State of Network 1 and 2</br>
+</br>
+First Network</br>
+[-1, -2, 1, -1]</br>
+[0, -2, 0, 1]</br>
+[1, 1, -1, -2]</br>
+[0, 2, -1, 0]</br>
+[1, 1, 2, 1]</br>
+[-1, 2, 1, -1]</br>
+</br>
+Second Network</br>
+[-1, -2, 1, -1]</br>
+[-1, -2, 0, 2]</br>
+[1, 0, 0, -2]</br>
+[0, 2, -2, 1]</br>
+[1, 0, 2, 0]</br>
+[-2, 2, 1, 0]</br>
+</br>
+Output 1: 1</br>
+Output 2: -1</br>
+</br>
+ Network1 and Network2 are NOT SYNCHRONISED !!!!</br>
+Total iter: 1000000</br>
+---  List of syncronised attackers --------</br>
+None.</br>
 
-Final State of Network 1 and 2
-
-First Network
-[-1, -2, 1, -1]
-[0, -2, 0, 1]
-[1, 1, -1, -2]
-[0, 2, -1, 0]
-[1, 1, 2, 1]
-[-1, 2, 1, -1]
-
-Second Network
-[-1, -2, 1, -1]
-[-1, -2, 0, 2]
-[1, 0, 0, -2]
-[0, 2, -2, 1]
-[1, 0, 2, 0]
-[-2, 2, 1, 0]
-
-Output 1: 1
-Output 2: -1
-
- Network1 and Network2 are NOT SYNCHRONISED !!!!
-Total iter: 1000000
----  List of syncronised attackers --------
-None.
-
-
-
-
-Number of inputs : 40
-Total numbers of perceptrons: 4
-Note, due to the input per perceptron should be integer, adjusted number of inpu
-t is : 40
-Positive boundaries of the weights: 4
+</br>
+</br>
+</br>
+Number of inputs : 40</br>
+Total numbers of perceptrons: 4</br>
+Note, due to the input per perceptron should be integer, adjusted number of input is : 40</br>
+Positive boundaries of the weights: 4</br>
 Number of attackers: 4
-Initial state of networks
-First Network
-[3, 1, -3, 0, 4, 2, -4, 2, -3, -4]
-[2, 2, -4, -3, -4, 2, 2, 4, 1, -4]
-[0, 0, 2, 4, -2, 3, 4, -4, -3, -1]
-[-2, -3, 4, -4, -4, -1, -4, 0, 2, 2]
-
-Second Network
-[2, 0, 3, 0, -3, -1, 3, -4, -1, -2]
-[3, 3, 1, 1, 1, 2, -4, 4, 1, 4]
-[1, -2, -2, 4, -3, -4, 4, 4, -1, -4]
-[-4, -4, -4, -4, 3, 0, 3, -2, 0, 4]
-
-Output 1: -1
-Output 2: -1
-
-Final State of Network 1 and 2
-
-First Network
-[0, 0, -1, 1, -1, -1, 3, 3, 0, -2]
-[1, 0, 2, 1, -1, -1, -2, -3, 3, 2]
-[-2, 1, -1, 0, -2, -3, 2, 1, -1, 1]
-[1, 0, 3, 1, -1, 2, 2, 1, -2, 0]
-
-Second Network
-[0, 0, -1, 1, -1, -1, 3, 3, 0, -2]
-[1, 0, 2, 1, -1, -1, -2, -3, 3, 2]
-[-2, 1, -1, 0, -2, -3, 2, 1, -1, 1]
-[1, 0, 3, 1, -1, 2, 2, 1, -2, 0]
-
-Output 1: 1
-Output 2: 1
-
- Network1 and Network2 are SYNCHRONISED !!
-Synchronised iter: 50
-Total iter: 113921
-Time Taken: 449.000 ms
----  List of syncronised attackers --------
-None
+Initial state of networks</br>
+First Network</br>
+[3, 1, -3, 0, 4, 2, -4, 2, -3, -4]</br>
+[2, 2, -4, -3, -4, 2, 2, 4, 1, -4]</br>
+[0, 0, 2, 4, -2, 3, 4, -4, -3, -1]</br>
+[-2, -3, 4, -4, -4, -1, -4, 0, 2, 2]</br>
+</br>
+Second Network</br>
+[2, 0, 3, 0, -3, -1, 3, -4, -1, -2]</br>
+[3, 3, 1, 1, 1, 2, -4, 4, 1, 4]</br>
+[1, -2, -2, 4, -3, -4, 4, 4, -1, -4]</br>
+[-4, -4, -4, -4, 3, 0, 3, -2, 0, 4]</br>
+</br>
+Output 1: -1</br>
+Output 2: -1</br>
+</br>
+Final State of Network 1 and 2</br>
+</br>
+First Network</br>
+[0, 0, -1, 1, -1, -1, 3, 3, 0, -2]</br>
+[1, 0, 2, 1, -1, -1, -2, -3, 3, 2]</br>
+[-2, 1, -1, 0, -2, -3, 2, 1, -1, 1]</br>
+[1, 0, 3, 1, -1, 2, 2, 1, -2, 0]</br>
+</br>
+Second Network</br>
+[0, 0, -1, 1, -1, -1, 3, 3, 0, -2]</br>
+[1, 0, 2, 1, -1, -1, -2, -3, 3, 2]</br>
+[-2, 1, -1, 0, -2, -3, 2, 1, -1, 1]</br>
+[1, 0, 3, 1, -1, 2, 2, 1, -2, 0]</br>
+</br>
+Output 1: 1</br>
+Output 2: 1</br>
+</br>
+ Network1 and Network2 are SYNCHRONISED !!</br>
+Synchronised iter: 50</br>
+Total iter: 113921</br>
+Time Taken: 449.000 ms</br>
+---  List of syncronised attackers --------</br>
+None</br>
 
 ## References
 
